@@ -1,0 +1,23 @@
+{
+  "name": "codigosiniciaisbackend_estudos00",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edibrum/CodigosIniciaisBackEnd_Estudos00.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edibrum/CodigosIniciaisBackEnd_Estudos00/issues"
+  },
+  "homepage": "https://github.com/edibrum/CodigosIniciaisBackEnd_Estudos00#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
